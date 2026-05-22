@@ -4,5 +4,6 @@ Primary resources:
 - MIT OpenCourseWare 9.01: Introduction to Neuroscience
 - Primary literature (full reading log in /paper-reading-log)
 - UW Computational Neuroscience (Coursera, audit)
- My research connection
+
+My research connection
 My published computational work on EZH2 inhibitors in glioblastoma (Journal of Xidian University, 2025) and my current epigenomics internship gave me a specific entry point into neuroscience through chromatin biology. These notes document how I have been building the broader neuroscience foundation around that core.
